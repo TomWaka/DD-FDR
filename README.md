@@ -1,18 +1,18 @@
 # DD-FDA
 
-## Overview 📝
+## Overview 
 
 This repository presents code demonstrating the double-descent curve in functional data regression, as discussed in the following paper:
 
 **Wakayama, T. and Matsui, H. (2023). [Functional Data Regression Reconciles with Excess Bases](https://arxiv.org/abs/2308.01724)**.
 
-## Prerequisites 📋
+## Prerequisites 
 
-### System Requirements 🖥
+### System Requirements 
 
 - **R Version**: 4.3.3
 
-### Required Packages 📦
+### Required Packages 
 
 To execute the project scripts, the following packages for R must be installed:
 
@@ -20,6 +20,6 @@ To execute the project scripts, the following packages for R must be installed:
 fda, fda.usc, ggplot2, refund, splines
 ```
 
-## License 📄
+## License 
 
 The source code and documentation are licensed under the MIT License.
